@@ -24,7 +24,7 @@ I am an **Software Engineer** , passionate about building intelligent systems, e
 ## 🏆 Achievements
 
 * Built multiple AI/ML & full‑stack projects
-* Experienced in two software engineering internships
+* Experienced in software engineering 
 * Strong background in backend + intelligent systems
 
 ## 📬 Get in Touch
